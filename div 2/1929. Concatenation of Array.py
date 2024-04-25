@@ -1,4 +1,4 @@
 class Solution:
-    def getConcatenation(self, nums: List[int]) -> List[int]:
+    def getConcatenation(self, nums: list[int]) -> list[int]:
         nums.extend(nums)
         return nums
