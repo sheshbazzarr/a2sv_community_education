@@ -1,20 +1,30 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        def compareCounter(a, b):
-            for c in a:
-                if a[c] != b[c]:
-                    return False
-            return True
+        
+        ans = []
+        # Frequency arrays
+        arr1 = [0] * 26
+        arr2 = [0] * 26
+        n, m = len(s), len(p)
 
-        ret, n = [], len(p)
-        if len(s) < n:
-            return ret
-        counterP, counterS, ret = Counter(p), Counter(s[:n]), []
+        if m > n:
+            return ans
 
-        for i in range(len(s) - n + 1):
-            if i > 0:
-                counterS[s[i - 1]] -= 1
-                counterS[s[i + n - 1]] += 1
-            if compareCounter(counterS, counterP):
-                ret.append(i)
-        return ret
+        # First window
+        for i in range(m):
+            arr1[ord(p[i]) - ord('a')] += 1
+            arr2[ord(s[i]) - ord('a')] += 1
+
+        if arr1 == arr2:
+            ans.append(0)
+
+        # Subsequent windows
+        for i in range(m, n):
+            arr2[ord(s[i]) - ord('a')] += 1
+            arr2[ord(s[i - m]) - ord('a')] -= 1
+
+            if arr1 == arr2:
+                ans.append(i - m + 1)
+
+        return ans
+
