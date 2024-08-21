@@ -5,6 +5,7 @@ A2sv community pathway and contest
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -29,6 +30,7 @@ A2sv community pathway and contest
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ A2sv community pathway and contest
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
