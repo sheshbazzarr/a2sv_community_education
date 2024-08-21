@@ -4,6 +4,6 @@ class Solution:
         nums1.sort()
         n = len(nums1)
         if n % 2 == 0:
-            return (nums1[n // 2 - 1] + nums1[n // 2]) / 2.0
+            return (nums1[n // 2 -1] + nums1[n // 2]) / 2.0
         else:
             return float(nums1[n // 2])
