@@ -8,5 +8,10 @@ class Solution:
 
         # reverse the transpose row 
         for i in range(number_elements):
-            matrix[i].reverse()
-            
+            left_ptr=0
+            right_ptr=len(matrix[i])-1
+            while left_ptr<right_ptr:
+                matrix[i][left_ptr],matrix[i][right_ptr]=matrix[i][right_ptr], matrix[i][left_ptr]
+                left_ptr+=1
+                right_ptr-=1
+        return matrix
