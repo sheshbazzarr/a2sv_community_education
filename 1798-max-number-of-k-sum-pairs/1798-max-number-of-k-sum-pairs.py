@@ -1,19 +1,15 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        nums.sort()  
-        count = 0
-        i = 0
-        j = len(nums) - 1
         
-        while i < j:
-            current_sum = nums[i] + nums[j]
-            if current_sum == k:
+        count = 0
+        freq = defaultdict(int)  # A dictionary to store the frequency of each element
+        
+        for num in nums:
+            complement = k - num
+            if freq[complement] > 0:
                 count += 1
-                i += 1
-                j -= 1
-            elif current_sum < k:
-                i += 1
+                freq[complement] -= 1  # Use the complement, so decrease its count
             else:
-                j -= 1
-                
+                freq[num] += 1  # Otherwise, store the frequency of the current number
+        
         return count
