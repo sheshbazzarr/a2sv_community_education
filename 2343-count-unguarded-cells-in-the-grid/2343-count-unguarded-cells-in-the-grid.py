@@ -22,3 +22,13 @@ class Solution:
                 if garded_cell[row][col]==0:
                     ungarded_cell+=1
         return ungarded_cell
+""" 
+steps 
+1.creat guarded cell
+2.place walls
+3.place guards
+4.define the directions 
+5.mark guarded cells
+6.count unguarded cells
+7.return unguarded cells
+"""
