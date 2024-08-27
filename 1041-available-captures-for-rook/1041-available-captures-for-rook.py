@@ -1,45 +1,31 @@
+from typing import List
+
 class Solution:
     def numRookCaptures(self, board: List[List[str]]) -> int:
-        # Find the rook's position
+        # Step 1: Find the Rook's position
         for i in range(8):
             for j in range(8):
-                if board[i][j] == "R":
+                if board[i][j] == 'R':
                     rook_row, rook_col = i, j
                     break
-
-        # Initialize the count of attacked pawns
+            else:
+                continue
+            break
+        
+        # Define the four possible directions: right, down, up, left
+        directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
         attack_pawn = 0
 
-        # Check right
-        for i in range(rook_col + 1, 8):
-            if board[rook_row][i] == "p":
-                attack_pawn += 1
-                break
-            elif board[rook_row][i] == "B":
-                break
-
-        # Check left
-        for i in range(rook_col - 1, -1, -1):
-            if board[rook_row][i] == "p":
-                attack_pawn += 1
-                break
-            elif board[rook_row][i] == "B":
-                break
-
-        # Check upward
-        for j in range(rook_row - 1, -1, -1):
-            if board[j][rook_col] == "p":
-                attack_pawn += 1
-                break
-            elif board[j][rook_col] == "B":
-                break
-
-        # Check downward
-        for j in range(rook_row + 1, 8):
-            if board[j][rook_col] == "p":
-                attack_pawn += 1
-                break
-            elif board[j][rook_col] == "B":
-                break
-
+        # Step 2: Check all four directions
+        for dr, dc in directions:
+            r, c = rook_row, rook_col
+            while 0 <= r + dr < 8 and 0 <= c + dc < 8:
+                r += dr
+                c += dc
+                if board[r][c] == 'p':
+                    attack_pawn += 1
+                    break
+                elif board[r][c] == 'B':
+                    break
+        
         return attack_pawn
