@@ -1,11 +1,12 @@
 class Solution:
     def chalkReplacer(self, chalk: List[int], k: int) -> int:
         total=sum(chalk)
-        full_cycles=k//total
-        k-=full_cycles*total
+        N=len(chalk)
 
-        for i,x in enumerate(chalk):
-            k-=x
-            if k<0:
-                return i
-        assert(False)
+        if k%total==0:
+            return 0
+        left=k%total
+        for index in range(N):
+            left-=chalk[index]
+            if left<0:
+                return index
