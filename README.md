@@ -10,6 +10,7 @@ A2sv community pathway and contest
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
+| [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -35,6 +36,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sheshbazzarr/A2SV/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Divide and Conquer
 |  |
@@ -104,6 +106,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
@@ -141,5 +144,6 @@ A2sv community pathway and contest
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
