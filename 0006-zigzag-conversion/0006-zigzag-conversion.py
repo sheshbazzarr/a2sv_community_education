@@ -1,19 +1,15 @@
 class Solution:
     def convert(self,s: str, numRows: int) -> str:
-        if numRows == 1 or numRows >= len(s):
+        if numRows==1 or len(s)<=numRows:
             return s
+        rows=['']*numRows
+        cur_row=0
+        can_I_go_down=False
         
-        # Create an array of strings, one for each row
-        rows = [''] * numRows
-        cur_row = 0
-        going_down = False
-
-        for char in s:
-            rows[cur_row] += char
-            # Change direction when you reach the top or bottom row
-            if cur_row == 0 or cur_row == numRows - 1:
-                going_down = not going_down
-            cur_row += 1 if going_down else -1
-
-        # Combine all rows to form the final output
+        for chr in s:
+            rows[cur_row]+=chr
+            # you can change dir
+            if cur_row ==0 or cur_row==numRows-1:
+                can_I_go_down = not can_I_go_down
+            cur_row+=1 if can_I_go_down else -1
         return ''.join(rows)
