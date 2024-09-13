@@ -1,19 +1,28 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        ans = 0
-        sign = 1
-        digitFound = False
-        signFound = False
-        for ch in s.lstrip():
-            if ch.isdigit():
-                digitFound = True
-                num = ord(ch)-ord("0")
-                ans = ans*10+num
-            elif ch in ["-","+"] and not signFound and not digitFound:
-                signFound = True
-                if ch =="-":
-                    sign = -1
+        sign =['-','+']
+        s = s.split()
+        if len(s)==0:
+            return 0
+        s = s[0]
+        res = ''
+        for i ,val in enumerate(s):
+            if i ==0:
+                if (s[i] in sign or s[i].isdigit()):
+                    res +=s[i]
+                else:
+                    break
             else:
-                break 
-        return max(-2**31,min(ans*sign,2**31-1))
-        
+                if s[i].isdigit():
+                    res +=s[i]
+                else:
+                    break
+        try:
+            nums = int(res)
+        except:
+            return 0
+        if nums > 2**31-1:
+            return 2**31-1
+        if nums < -2**31:
+            return -2**31
+        return nums
