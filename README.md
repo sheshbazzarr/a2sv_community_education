@@ -121,6 +121,7 @@ A2sv community pathway and contest
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sheshbazzarr/A2SV/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 ## Recursion
