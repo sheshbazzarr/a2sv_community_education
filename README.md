@@ -27,6 +27,7 @@ A2sv community pathway and contest
 | [0005-longest-palindromic-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sheshbazzarr/A2SV/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sheshbazzarr/A2SV/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -130,6 +131,7 @@ A2sv community pathway and contest
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
@@ -150,6 +152,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
 ## Prefix Sum
 |  |
 | ------- |
