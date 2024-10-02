@@ -12,6 +12,7 @@ A2sv community pathway and contest
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -58,6 +59,7 @@ A2sv community pathway and contest
 | ------- |
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -91,6 +93,7 @@ A2sv community pathway and contest
 | [0012-integer-to-roman](https://github.com/sheshbazzarr/A2SV/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheshbazzarr/A2SV/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
