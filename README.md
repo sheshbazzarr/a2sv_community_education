@@ -9,6 +9,7 @@ A2sv community pathway and contest
 | [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
@@ -170,6 +171,7 @@ A2sv community pathway and contest
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
 | ------- |
