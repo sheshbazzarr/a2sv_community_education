@@ -5,6 +5,7 @@ A2sv community pathway and contest
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sheshbazzarr/A2SV/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
@@ -93,6 +94,7 @@ A2sv community pathway and contest
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sheshbazzarr/A2SV/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sheshbazzarr/A2SV/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheshbazzarr/A2SV/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
