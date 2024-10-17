@@ -9,7 +9,7 @@ class Solution:
             i+=1
             j+=1
         res.append(word1[i:])
-        res.append(word1[j:])
+        res.append(word2[j:])
         return "".join(res)
 
         
