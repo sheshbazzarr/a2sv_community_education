@@ -11,6 +11,7 @@ A2sv community pathway and contest
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/sheshbazzarr/A2SV/tree/master/0605-can-place-flowers) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
@@ -145,6 +146,7 @@ A2sv community pathway and contest
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/sheshbazzarr/A2SV/tree/master/0605-can-place-flowers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
