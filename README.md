@@ -205,4 +205,8 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sheshbazzarr/A2SV/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
