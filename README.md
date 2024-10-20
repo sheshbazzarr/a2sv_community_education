@@ -39,6 +39,7 @@ A2sv community pathway and contest
 | [0012-integer-to-roman](https://github.com/sheshbazzarr/A2SV/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheshbazzarr/A2SV/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -132,6 +133,7 @@ A2sv community pathway and contest
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
+| [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0345-reverse-vowels-of-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
