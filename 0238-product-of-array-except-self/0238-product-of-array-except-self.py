@@ -10,7 +10,7 @@ class Solution:
             result[i]=left_prod
             left_prod*=nums[i]
         right_prod=1
-        for i in range(n-1,-1,-1):
-            result[i]=right_prod*result[i]
-            right_prod=right_prod*nums[i]
-        return result
+        for i in range(n):
+            result[i]*=right_prod
+            right_prod*= nums[i]
+            
