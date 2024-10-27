@@ -236,4 +236,16 @@ A2sv community pathway and contest
 | [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Graph
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
