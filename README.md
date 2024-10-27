@@ -139,6 +139,7 @@ A2sv community pathway and contest
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sheshbazzarr/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sheshbazzarr/A2SV/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sheshbazzarr/A2SV/tree/master/0283-move-zeroes) |
@@ -227,5 +228,6 @@ A2sv community pathway and contest
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sheshbazzarr/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
