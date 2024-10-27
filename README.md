@@ -53,6 +53,7 @@ A2sv community pathway and contest
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sheshbazzarr/A2SV/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/sheshbazzarr/A2SV/tree/master/1894-merge-strings-alternately) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -205,6 +206,7 @@ A2sv community pathway and contest
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1511-count-number-of-teams](https://github.com/sheshbazzarr/A2SV/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Database
 |  |
 | ------- |
