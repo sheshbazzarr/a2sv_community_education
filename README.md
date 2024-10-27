@@ -175,6 +175,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
+| [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
@@ -223,4 +224,8 @@ A2sv community pathway and contest
 | ------- |
 | [0584-find-customer-referee](https://github.com/sheshbazzarr/A2SV/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sheshbazzarr/A2SV/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
