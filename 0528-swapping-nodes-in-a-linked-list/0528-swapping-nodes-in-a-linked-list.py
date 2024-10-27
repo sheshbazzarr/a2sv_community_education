@@ -5,13 +5,20 @@
 #         self.next = next
 class Solution:
     def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        cur = head
-        for i in range(k-1):
-            cur=cur.next
-        left = cur
-        right=head
-        while cur.next:
-            cur=cur.next
-            right=right.next
-        left.val ,right.val =right.val,left.val
+        # Step 1: Find the kth node from the beginning
+        first = head
+        for _ in range(k - 1):
+            first = first.next
+
+        # Step 2: Find the kth node from the end using two pointers
+        second = head
+        temp = first
+        while temp.next:
+            temp = temp.next
+            second = second.next
+
+        # Step 3: Swap the values of the two nodes
+        first.val, second.val = second.val, first.val
+
+        # Return the modified list
         return head
