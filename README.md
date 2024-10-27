@@ -150,6 +150,7 @@ A2sv community pathway and contest
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sheshbazzarr/A2SV/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sheshbazzarr/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -232,4 +233,5 @@ A2sv community pathway and contest
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sheshbazzarr/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
