@@ -8,6 +8,7 @@ A2sv community pathway and contest
 | [0001-two-sum](https://github.com/sheshbazzarr/A2SV/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/sheshbazzarr/A2SV/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
@@ -138,6 +139,7 @@ A2sv community pathway and contest
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/sheshbazzarr/A2SV/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sheshbazzarr/A2SV/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0345-reverse-vowels-of-a-string) |
