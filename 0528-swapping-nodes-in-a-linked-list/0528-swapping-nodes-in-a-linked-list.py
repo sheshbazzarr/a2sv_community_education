@@ -12,8 +12,8 @@ class Solution:
 
         # Step 2: Find the kth node from the end using two pointers
         second = head
-        temp = first
-        while temp.next:
+        temp=first
+        while temp.next is not None:
             temp = temp.next
             second = second.next
 
