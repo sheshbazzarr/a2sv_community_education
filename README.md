@@ -182,6 +182,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/sheshbazzarr/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
@@ -240,6 +241,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sheshbazzarr/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/sheshbazzarr/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/0528-swapping-nodes-in-a-linked-list) |
