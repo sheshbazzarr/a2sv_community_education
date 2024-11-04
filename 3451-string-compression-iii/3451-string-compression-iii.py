@@ -1,11 +1,15 @@
 class Solution:
     def compressedString(self, word: str) -> str:
-        compress = []
-        i = 0
-        while i<len(word):
-            count=1
-            while i+count<len(word)  and word[i]==word[count+i] and count<9:
-                count+=1
-            compress.append(f'{count}{word[i]}')
-            i+=count
-        return ''.join(compress)
+        n,l,r = len(word),0,0
+        ans =[]
+        while r<n:
+            c=word[l]
+            while r<n and word[r]==c:
+                r+=1
+            q,rem =divmod(r-l,9)
+            for _ in range(q):
+                ans+='9'+c
+            if rem>0:
+                ans+=str(rem)+c
+            l=r
+        return "".join(ans)
