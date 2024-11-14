@@ -6,9 +6,7 @@ class Solution:
             if R-L>k:
                 windowset.remove(nums[L])
                 L+=1
-            if nums[R] in windowset: #find the duplicate 
-                return True 
-            else:
-                windowset.add(nums[R])
-
+            if nums[R] in windowset:
+                return True
+            windowset.add(nums[R])
         return False
