@@ -29,6 +29,7 @@ A2sv community pathway and contest
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sheshbazzarr/A2SV/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/sheshbazzarr/A2SV/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
@@ -185,6 +186,7 @@ A2sv community pathway and contest
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sheshbazzarr/A2SV/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -196,6 +198,7 @@ A2sv community pathway and contest
 | [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -277,6 +280,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Database
 |  |
@@ -316,4 +320,8 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/sheshbazzarr/A2SV/tree/master/2716-prime-subtraction-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
