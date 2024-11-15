@@ -3,13 +3,13 @@ from typing import List
 class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:
         n = len(code)  # O(1): Length of the list.
-        
+        result = [0] * n 
         if k == 0:
-            return [0] * n  # O(n): Return a list of zeros if k is 0.
+            return  result  # O(n): Return a list of zeros if k is 0.
 
         result = [0] * n  # O(n): Initialize the result list.
         
-        # Determine the direction of the sliding window.
+        
         start, end, step = (1, k + 1, 1) if k > 0 else (k, 0, 1)
         window_sum = sum(code[i % n] for i in range(start, end))  # O(k): Initialize the first window sum.
 
