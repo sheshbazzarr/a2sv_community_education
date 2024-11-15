@@ -18,4 +18,4 @@ class Solution:
         return code
 
         # time complexity O(n)
-        # space  0(1)
+        # space  0(N)
