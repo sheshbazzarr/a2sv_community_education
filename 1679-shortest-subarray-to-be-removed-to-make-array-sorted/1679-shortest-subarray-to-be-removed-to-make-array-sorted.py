@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def findLengthOfShortestSubarray(self, arr: List[int]) -> int:
         # Step 1: Remove non-decreasing suffix
