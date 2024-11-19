@@ -43,6 +43,7 @@ A2sv community pathway and contest
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sheshbazzarr/A2SV/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sheshbazzarr/A2SV/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheshbazzarr/A2SV/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sheshbazzarr/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sheshbazzarr/A2SV/tree/master/2716-prime-subtraction-operation) |
@@ -94,6 +95,7 @@ A2sv community pathway and contest
 | [1755-defuse-the-bomb](https://github.com/sheshbazzarr/A2SV/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sheshbazzarr/A2SV/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheshbazzarr/A2SV/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sheshbazzarr/A2SV/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
@@ -162,6 +164,7 @@ A2sv community pathway and contest
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sheshbazzarr/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sheshbazzarr/A2SV/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheshbazzarr/A2SV/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sheshbazzarr/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
