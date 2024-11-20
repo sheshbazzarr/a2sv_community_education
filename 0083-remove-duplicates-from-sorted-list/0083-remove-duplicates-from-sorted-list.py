@@ -6,7 +6,7 @@
 
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(0, head)  # Dummy node to simplify edge cases
+        dummy = ListNode(10,head)  # Dummy node to simplify edge cases
         curr = dummy.next  # Start with the actual head of the list
         
         while curr is not None and curr.next is not None:  # Traverse while both curr and curr.next exist
