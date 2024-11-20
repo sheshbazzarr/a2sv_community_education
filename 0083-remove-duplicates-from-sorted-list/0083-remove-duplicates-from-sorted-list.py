@@ -9,7 +9,7 @@ class Solution:
         dummy = ListNode(0, head)  # Dummy node to simplify edge cases
         curr = dummy.next  # Start with the actual head of the list
         
-        while curr and curr.next:  # Traverse while both curr and curr.next exist
+        while curr is not None and curr.next is not None:  # Traverse while both curr and curr.next exist
             if curr.val == curr.next.val:  # If duplicate is found
                 curr.next = curr.next.next  # Skip the duplicate
             else:
