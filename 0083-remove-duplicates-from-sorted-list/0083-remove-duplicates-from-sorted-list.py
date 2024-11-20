@@ -15,4 +15,4 @@ class Solution:
             else:
                 curr = curr.next  # Move to the next node
         
-        return dummy.next  # Return the updated list
+        return head # Return the updated list
