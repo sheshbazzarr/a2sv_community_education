@@ -77,6 +77,7 @@ A2sv community pathway and contest
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sheshbazzarr/A2SV/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sheshbazzarr/A2SV/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/sheshbazzarr/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/sheshbazzarr/A2SV/tree/master/3451-string-compression-iii) |
@@ -96,6 +97,7 @@ A2sv community pathway and contest
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sheshbazzarr/A2SV/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheshbazzarr/A2SV/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sheshbazzarr/A2SV/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sheshbazzarr/A2SV/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
@@ -167,6 +169,7 @@ A2sv community pathway and contest
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sheshbazzarr/A2SV/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheshbazzarr/A2SV/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sheshbazzarr/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sheshbazzarr/A2SV/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
