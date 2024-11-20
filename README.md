@@ -224,6 +224,7 @@ A2sv community pathway and contest
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sheshbazzarr/A2SV/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sheshbazzarr/A2SV/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sheshbazzarr/A2SV/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
@@ -233,6 +234,7 @@ A2sv community pathway and contest
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sheshbazzarr/A2SV/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/sheshbazzarr/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/0024-swap-nodes-in-pairs) |
@@ -300,6 +302,7 @@ A2sv community pathway and contest
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sheshbazzarr/A2SV/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sheshbazzarr/A2SV/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sheshbazzarr/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/0024-swap-nodes-in-pairs) |
