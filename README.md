@@ -34,6 +34,7 @@ A2sv community pathway and contest
 | [1755-defuse-the-bomb](https://github.com/sheshbazzarr/A2SV/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/sheshbazzarr/A2SV/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sheshbazzarr/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sheshbazzarr/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -202,6 +203,7 @@ A2sv community pathway and contest
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sheshbazzarr/A2SV/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/sheshbazzarr/A2SV/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sheshbazzarr/A2SV/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sheshbazzarr/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -251,6 +253,7 @@ A2sv community pathway and contest
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
+| [1972-rotating-the-box](https://github.com/sheshbazzarr/A2SV/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sheshbazzarr/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
