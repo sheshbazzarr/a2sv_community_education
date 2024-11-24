@@ -10,6 +10,7 @@ A2sv community pathway and contest
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sheshbazzarr/A2SV/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/sheshbazzarr/A2SV/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0219-contains-duplicate-ii) |
@@ -111,6 +112,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sheshbazzarr/A2SV/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/sheshbazzarr/A2SV/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
