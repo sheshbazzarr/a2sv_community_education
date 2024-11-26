@@ -34,12 +34,13 @@ class Solution:
                 elif top>0:
                     # Otherwise, double the score of the inner scope
                     score = top*2
-                if not stack:
+                if stack:
+                    # Otherwise, add this score to the last element in the stack
+                    stack[-1]+=score
+                elif not stack:
                     # if the stack is empty, it means this score belongs 
                     # to the outermost level
                     output+=score
-                elif stack:
-                    # Otherwise, add this score to the last element in the stack
-                    stack[-1]+=score
+                
         return output
 
