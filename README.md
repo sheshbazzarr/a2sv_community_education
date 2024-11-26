@@ -73,6 +73,7 @@ A2sv community pathway and contest
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sheshbazzarr/A2SV/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/0567-permutation-in-string) |
+| [0886-score-of-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0886-score-of-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sheshbazzarr/A2SV/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -307,6 +308,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
+| [0886-score-of-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0886-score-of-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Database
