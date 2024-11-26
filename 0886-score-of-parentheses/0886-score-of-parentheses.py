@@ -31,14 +31,14 @@ class Solution:
                 # if the top value is zero , it means the scop is "()" , which has a score of 2
                 if top == 0:
                     score =1
-                else:
+                elif top>0:
                     # Otherwise, double the score of the inner scope
                     score = top*2
                 if not stack:
                     # if the stack is empty, it means this score belongs 
                     # to the outermost level
                     output+=score
-                else:
+                elif stack:
                     # Otherwise, add this score to the last element in the stack
                     stack[-1]+=score
         return output
