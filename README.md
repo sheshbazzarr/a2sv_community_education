@@ -77,6 +77,7 @@ A2sv community pathway and contest
 | [0443-string-compression](https://github.com/sheshbazzarr/A2SV/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/0567-permutation-in-string) |
 | [0886-score-of-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0886-score-of-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sheshbazzarr/A2SV/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -320,6 +321,7 @@ A2sv community pathway and contest
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
 | [0886-score-of-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0886-score-of-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3447-clear-digits](https://github.com/sheshbazzarr/A2SV/tree/master/3447-clear-digits) |
