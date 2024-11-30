@@ -18,6 +18,7 @@ A2sv community pathway and contest
 | [0238-product-of-array-except-self](https://github.com/sheshbazzarr/A2SV/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sheshbazzarr/A2SV/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0334-increasing-triplet-subsequence) |
+| [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sheshbazzarr/A2SV/tree/master/0605-can-place-flowers) |
@@ -226,6 +227,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
+| [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sheshbazzarr/A2SV/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -323,6 +325,7 @@ A2sv community pathway and contest
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
 | [0886-score-of-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -380,6 +383,7 @@ A2sv community pathway and contest
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
@@ -390,4 +394,8 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
