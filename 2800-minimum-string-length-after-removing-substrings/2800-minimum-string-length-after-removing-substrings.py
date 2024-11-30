@@ -1,15 +1,16 @@
 class Solution:
     def minLength(self, s: str) -> int:
         stack = []
-        for i in s:
-            
-            if stack and ((stack[-1]=="A" and i=="B") or(stack[-1]=="C"and i=="D" )):
+        for char in s:
+            stack.append(char)
+
+            if len(stack)>1:
+                if stack[-2:]==['A','B']:
                     stack.pop()
-            else:
-                stack.append(i)
-
+                    stack.pop()
+                elif stack[-2:]==['C','D']:
+                    stack.pop()
+                    stack.pop()
         return len(stack)
+                
 
-     
-               
-            
