@@ -4,7 +4,7 @@ class Solution:
         for char in s:
             result.append(char)
 
-            if len(result)>=2 and (result[-2:]==['A','B'] or result[-2:]==['C','D']):
+            if len(result)>=1 and (result[-2:]==['A','B'] or result[-2:]==['C','D']):
                 result.pop()
                 result.pop()
         return len(result)
