@@ -88,6 +88,7 @@ A2sv community pathway and contest
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sheshbazzarr/A2SV/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sheshbazzarr/A2SV/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/sheshbazzarr/A2SV/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sheshbazzarr/A2SV/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3447-clear-digits](https://github.com/sheshbazzarr/A2SV/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/sheshbazzarr/A2SV/tree/master/3451-string-compression-iii) |
@@ -280,6 +281,7 @@ A2sv community pathway and contest
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sheshbazzarr/A2SV/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/sheshbazzarr/A2SV/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -324,6 +326,7 @@ A2sv community pathway and contest
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sheshbazzarr/A2SV/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/sheshbazzarr/A2SV/tree/master/3447-clear-digits) |
 ## Database
 |  |
