@@ -12,3 +12,6 @@ class Solution:
 
             max_score = max(max_score,score)
         return max_score
+
+        # Time complexity O(n^2)
+        # space O(n)
