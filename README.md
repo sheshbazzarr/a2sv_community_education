@@ -24,6 +24,7 @@ A2sv community pathway and contest
 | [0594-longest-harmonious-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sheshbazzarr/A2SV/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sheshbazzarr/A2SV/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/sheshbazzarr/A2SV/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
@@ -303,6 +304,7 @@ A2sv community pathway and contest
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sheshbazzarr/A2SV/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sheshbazzarr/A2SV/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/sheshbazzarr/A2SV/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
