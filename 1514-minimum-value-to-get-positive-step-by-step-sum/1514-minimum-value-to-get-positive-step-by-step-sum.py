@@ -8,3 +8,4 @@ class Solution:
             min_value=min(min_value,step_sum)
         return 1-min_value
         
+
