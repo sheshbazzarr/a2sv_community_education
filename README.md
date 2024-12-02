@@ -17,6 +17,7 @@ A2sv community pathway and contest
 | [0219-contains-duplicate-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sheshbazzarr/A2SV/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sheshbazzarr/A2SV/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sheshbazzarr/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0334-increasing-triplet-subsequence) |
 | [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
@@ -301,6 +302,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sheshbazzarr/A2SV/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sheshbazzarr/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -398,4 +400,8 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sheshbazzarr/A2SV/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
