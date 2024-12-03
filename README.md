@@ -335,6 +335,7 @@ A2sv community pathway and contest
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/sheshbazzarr/A2SV/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
 | [0886-score-of-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0886-score-of-parentheses) |
@@ -411,5 +412,6 @@ A2sv community pathway and contest
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sheshbazzarr/A2SV/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sheshbazzarr/A2SV/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
