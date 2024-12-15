@@ -43,6 +43,7 @@ A2sv community pathway and contest
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/sheshbazzarr/A2SV/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1917-maximum-average-pass-ratio](https://github.com/sheshbazzarr/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/sheshbazzarr/A2SV/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -153,6 +154,7 @@ A2sv community pathway and contest
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/sheshbazzarr/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sheshbazzarr/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sheshbazzarr/A2SV/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -260,6 +262,7 @@ A2sv community pathway and contest
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sheshbazzarr/A2SV/tree/master/0605-can-place-flowers) |
+| [1917-maximum-average-pass-ratio](https://github.com/sheshbazzarr/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/sheshbazzarr/A2SV/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/sheshbazzarr/A2SV/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
