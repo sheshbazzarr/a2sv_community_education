@@ -32,6 +32,7 @@ A2sv community pathway and contest
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sheshbazzarr/A2SV/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
 | [1511-count-number-of-teams](https://github.com/sheshbazzarr/A2SV/tree/master/1511-count-number-of-teams) |
@@ -201,6 +202,7 @@ A2sv community pathway and contest
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0594-longest-harmonious-subsequence) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sheshbazzarr/A2SV/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -307,6 +309,7 @@ A2sv community pathway and contest
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sheshbazzarr/A2SV/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/sheshbazzarr/A2SV/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sheshbazzarr/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/sheshbazzarr/A2SV/tree/master/2089-maximum-matrix-sum) |
