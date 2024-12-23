@@ -90,6 +90,7 @@ A2sv community pathway and contest
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sheshbazzarr/A2SV/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/sheshbazzarr/A2SV/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -454,4 +455,5 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/sheshbazzarr/A2SV/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
