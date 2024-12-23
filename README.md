@@ -37,6 +37,7 @@ A2sv community pathway and contest
 | [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
 | [1511-count-number-of-teams](https://github.com/sheshbazzarr/A2SV/tree/master/1511-count-number-of-teams) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sheshbazzarr/A2SV/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-string-matching-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sheshbazzarr/A2SV/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/sheshbazzarr/A2SV/tree/master/1603-running-sum-of-1d-array) |
@@ -96,6 +97,7 @@ A2sv community pathway and contest
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sheshbazzarr/A2SV/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/sheshbazzarr/A2SV/tree/master/1666-make-the-string-great) |
@@ -458,4 +460,5 @@ A2sv community pathway and contest
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/sheshbazzarr/A2SV/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
