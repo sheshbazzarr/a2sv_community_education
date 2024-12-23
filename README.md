@@ -89,6 +89,7 @@ A2sv community pathway and contest
 | [0409-longest-palindrome](https://github.com/sheshbazzarr/A2SV/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sheshbazzarr/A2SV/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/sheshbazzarr/A2SV/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/sheshbazzarr/A2SV/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0886-score-of-parentheses) |
@@ -455,5 +456,6 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/sheshbazzarr/A2SV/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
