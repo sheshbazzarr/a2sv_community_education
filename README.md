@@ -81,6 +81,7 @@ A2sv community pathway and contest
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheshbazzarr/A2SV/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sheshbazzarr/A2SV/tree/master/0242-valid-anagram) |
@@ -291,6 +292,7 @@ A2sv community pathway and contest
 | [0007-reverse-integer](https://github.com/sheshbazzarr/A2SV/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sheshbazzarr/A2SV/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -322,6 +324,7 @@ A2sv community pathway and contest
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -359,6 +362,7 @@ A2sv community pathway and contest
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sheshbazzarr/A2SV/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
