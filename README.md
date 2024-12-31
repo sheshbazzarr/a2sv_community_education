@@ -11,6 +11,7 @@ A2sv community pathway and contest
 | [0027-remove-element](https://github.com/sheshbazzarr/A2SV/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sheshbazzarr/A2SV/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sheshbazzarr/A2SV/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -142,6 +143,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sheshbazzarr/A2SV/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -348,6 +350,7 @@ A2sv community pathway and contest
 | [0032-longest-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sheshbazzarr/A2SV/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
