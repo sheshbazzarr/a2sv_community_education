@@ -40,6 +40,7 @@ A2sv community pathway and contest
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sheshbazzarr/A2SV/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1511-count-number-of-teams](https://github.com/sheshbazzarr/A2SV/tree/master/1511-count-number-of-teams) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sheshbazzarr/A2SV/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1524-string-matching-in-an-array) |
@@ -136,6 +137,7 @@ A2sv community pathway and contest
 | [0643-maximum-average-subarray-i](https://github.com/sheshbazzarr/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sheshbazzarr/A2SV/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/sheshbazzarr/A2SV/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -219,6 +221,7 @@ A2sv community pathway and contest
 | [0594-longest-harmonious-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sheshbazzarr/A2SV/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -310,6 +313,7 @@ A2sv community pathway and contest
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/sheshbazzarr/A2SV/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sheshbazzarr/A2SV/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -379,6 +383,7 @@ A2sv community pathway and contest
 | [0724-find-pivot-index](https://github.com/sheshbazzarr/A2SV/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sheshbazzarr/A2SV/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sheshbazzarr/A2SV/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
