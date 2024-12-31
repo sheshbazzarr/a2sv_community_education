@@ -1,28 +1,47 @@
+from collections import defaultdict
+
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if t=='':return ""
-        countT, window ={},{}
-        for c in t:
-            countT[c]=1+countT.get(c,0)
-        have,need=0,len(countT)
-        res,resLen=[-1,-1],float('infinity')
-        l=0
-        for r in range(len(s)):
-            c=s[r]
-            window[c]=1+window.get(c,0)
-            if c in countT and window[c]==countT[c]:
-               have+=1
-            while have==need:
-                # update our result
-                if(r-l+1)<resLen:
-                    res=[l,r]
-                    resLen=(r-l+1)
-                    # pop from the left of our window while the condition is meet we want to shrink it to smallest posssible 
-                window[s[l]]-=1
-                if s[l] in countT and window[s[l]]<countT[s[l]]:
-                    have-=1
-                l+=1
-        l,r=res
-        return s[l:r+1] if resLen!=float('infinity') else ""
+        if not s or not t or len(s) < len(t):
+            return ""
 
+        # Initialize target_counts and required
+        target_counts = defaultdict(int)
+        for char in t:
+            target_counts[char] += 1
+        required = len(target_counts)
 
+        # Initialize window_counts and formed
+        window_counts = defaultdict(int)
+        formed = 0
+
+        # Initialize pointers and result
+        left = 0
+        min_length = float('inf')
+        result = ""
+
+        # Sliding window
+        for right in range(len(s)):
+            char = s[right]
+            window_counts[char] += 1
+
+            # Check if the current character matches the target frequency
+            if char in target_counts and window_counts[char] == target_counts[char]:
+                formed += 1
+
+            # Contract the window
+            while formed == required and left <= right:
+                # Update the result if the current window is smaller
+                current_length = right - left + 1
+                if current_length < min_length:
+                    min_length = current_length
+                    result = s[left:right + 1]
+
+                # Move the left pointer
+                left_char = s[left]
+                window_counts[left_char] -= 1
+                if left_char in target_counts and window_counts[left_char] < target_counts[left_char]:
+                    formed -= 1
+                left += 1
+
+        return result
