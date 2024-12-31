@@ -114,6 +114,7 @@ A2sv community pathway and contest
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sheshbazzarr/A2SV/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/sheshbazzarr/A2SV/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sheshbazzarr/A2SV/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0459-repeated-substring-pattern) |
