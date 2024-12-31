@@ -102,6 +102,7 @@ A2sv community pathway and contest
 | [0126-word-ladder-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sheshbazzarr/A2SV/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sheshbazzarr/A2SV/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sheshbazzarr/A2SV/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
@@ -391,6 +392,7 @@ A2sv community pathway and contest
 | [0115-distinct-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/sheshbazzarr/A2SV/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/sheshbazzarr/A2SV/tree/master/1511-count-number-of-teams) |
