@@ -100,6 +100,7 @@ A2sv community pathway and contest
 | [0087-scramble-string](https://github.com/sheshbazzarr/A2SV/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/sheshbazzarr/A2SV/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sheshbazzarr/A2SV/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
@@ -223,6 +224,7 @@ A2sv community pathway and contest
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sheshbazzarr/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/sheshbazzarr/A2SV/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/sheshbazzarr/A2SV/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0219-contains-duplicate-ii) |
@@ -462,6 +464,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/sheshbazzarr/A2SV/tree/master/0127-word-ladder) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
