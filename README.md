@@ -91,6 +91,7 @@ A2sv community pathway and contest
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sheshbazzarr/A2SV/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/sheshbazzarr/A2SV/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sheshbazzarr/A2SV/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
@@ -364,6 +365,7 @@ A2sv community pathway and contest
 | [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/sheshbazzarr/A2SV/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/sheshbazzarr/A2SV/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
