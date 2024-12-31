@@ -301,6 +301,7 @@ A2sv community pathway and contest
 | [0007-reverse-integer](https://github.com/sheshbazzarr/A2SV/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sheshbazzarr/A2SV/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sheshbazzarr/A2SV/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
@@ -354,6 +355,7 @@ A2sv community pathway and contest
 | [0045-jump-game-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sheshbazzarr/A2SV/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sheshbazzarr/A2SV/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sheshbazzarr/A2SV/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
@@ -481,4 +483,8 @@ A2sv community pathway and contest
 | [0459-repeated-substring-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/sheshbazzarr/A2SV/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1524-string-matching-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sheshbazzarr/A2SV/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
