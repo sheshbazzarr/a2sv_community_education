@@ -92,6 +92,7 @@ A2sv community pathway and contest
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/sheshbazzarr/A2SV/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sheshbazzarr/A2SV/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0076-minimum-window-substring) |
