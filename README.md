@@ -14,6 +14,7 @@ A2sv community pathway and contest
 | [0053-maximum-subarray](https://github.com/sheshbazzarr/A2SV/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sheshbazzarr/A2SV/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sheshbazzarr/A2SV/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
@@ -322,6 +323,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
@@ -356,6 +358,7 @@ A2sv community pathway and contest
 | [0053-maximum-subarray](https://github.com/sheshbazzarr/A2SV/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sheshbazzarr/A2SV/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sheshbazzarr/A2SV/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
