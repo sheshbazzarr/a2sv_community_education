@@ -113,6 +113,7 @@ A2sv community pathway and contest
 | [0345-reverse-vowels-of-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sheshbazzarr/A2SV/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/sheshbazzarr/A2SV/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sheshbazzarr/A2SV/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0459-repeated-substring-pattern) |
@@ -337,6 +338,7 @@ A2sv community pathway and contest
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/sheshbazzarr/A2SV/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/sheshbazzarr/A2SV/tree/master/2716-prime-subtraction-operation) |
@@ -371,6 +373,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/sheshbazzarr/A2SV/tree/master/0415-add-strings) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
