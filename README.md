@@ -82,6 +82,7 @@ A2sv community pathway and contest
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
@@ -278,6 +279,7 @@ A2sv community pathway and contest
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/sheshbazzarr/A2SV/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/sheshbazzarr/A2SV/tree/master/0605-can-place-flowers) |
@@ -306,6 +308,7 @@ A2sv community pathway and contest
 | [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/sheshbazzarr/A2SV/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 ## Matrix
@@ -341,6 +344,7 @@ A2sv community pathway and contest
 | [0005-longest-palindromic-substring](https://github.com/sheshbazzarr/A2SV/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
