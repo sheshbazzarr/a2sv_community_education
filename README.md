@@ -18,6 +18,7 @@ A2sv community pathway and contest
 | [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/sheshbazzarr/A2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0219-contains-duplicate-ii) |
@@ -105,6 +106,7 @@ A2sv community pathway and contest
 | [0131-palindrome-partitioning](https://github.com/sheshbazzarr/A2SV/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/sheshbazzarr/A2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sheshbazzarr/A2SV/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
@@ -230,6 +232,7 @@ A2sv community pathway and contest
 | [0126-word-ladder-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sheshbazzarr/A2SV/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/sheshbazzarr/A2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/sheshbazzarr/A2SV/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0219-contains-duplicate-ii) |
@@ -397,6 +400,7 @@ A2sv community pathway and contest
 | [0131-palindrome-partitioning](https://github.com/sheshbazzarr/A2SV/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/sheshbazzarr/A2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/sheshbazzarr/A2SV/tree/master/1511-count-number-of-teams) |
@@ -434,6 +438,7 @@ A2sv community pathway and contest
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheshbazzarr/A2SV/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0126-word-ladder-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/sheshbazzarr/A2SV/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -539,8 +544,10 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sheshbazzarr/A2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sheshbazzarr/A2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
