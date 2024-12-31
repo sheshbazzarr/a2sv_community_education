@@ -15,6 +15,7 @@ A2sv community pathway and contest
 | [0055-jump-game](https://github.com/sheshbazzarr/A2SV/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sheshbazzarr/A2SV/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
@@ -325,6 +326,7 @@ A2sv community pathway and contest
 | ------- |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
@@ -361,6 +363,7 @@ A2sv community pathway and contest
 | [0062-unique-paths](https://github.com/sheshbazzarr/A2SV/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/sheshbazzarr/A2SV/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
@@ -400,6 +403,7 @@ A2sv community pathway and contest
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sheshbazzarr/A2SV/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
@@ -461,6 +465,7 @@ A2sv community pathway and contest
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
