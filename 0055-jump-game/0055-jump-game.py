@@ -1,19 +1,10 @@
 class Solution:
-    def canJump(self, nums: list[int]) -> bool:
-        farthest = 0  # The farthest index we can reach
-        
-        # Iterate through the array
+    def canJump(self, nums: List[int]) -> bool:
+        max_reach = 0
         for i in range(len(nums)):
-            # If we are at an index that is beyond the farthest we can reach, return False
-            if i > farthest:
+            if i > max_reach:
                 return False
-            
-            # Update the farthest index we can reach from the current position
-            farthest = max(farthest, i + nums[i])
-            
-            # If we can reach or go beyond the last index, return True
-            if farthest >= len(nums) - 1:
+            max_reach = max(max_reach, i + nums[i])
+            if max_reach >= len(nums) - 1:
                 return True
-        
-        # If we finish the loop and can't reach the last index, return False
-        return False
+        return True
