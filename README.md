@@ -12,6 +12,7 @@ A2sv community pathway and contest
 | [0045-jump-game-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sheshbazzarr/A2SV/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sheshbazzarr/A2SV/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sheshbazzarr/A2SV/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -284,6 +285,7 @@ A2sv community pathway and contest
 | ------- |
 | [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sheshbazzarr/A2SV/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/sheshbazzarr/A2SV/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/sheshbazzarr/A2SV/tree/master/0605-can-place-flowers) |
@@ -351,6 +353,7 @@ A2sv community pathway and contest
 | [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sheshbazzarr/A2SV/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sheshbazzarr/A2SV/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
