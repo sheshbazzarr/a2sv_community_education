@@ -1,17 +1,15 @@
 class Solution:
     def maxScore(self, s: str) -> int:
-        
+        total_ones =s.count('1')
         max_score = 0
-        for i in range(1,len(s)):
-            left = s[:i]
-            right = s[i:]
-            left_zeros = left.count('0')
-            right_ones = right.count('1')
-
-            score = left_zeros+right_ones
-
-            max_score = max(max_score,score)
+        zeros = 0
+        ones = total_ones
+        for i in range(len(s)-1):
+            if s[i]=='0':
+                zeros +=1
+            else:
+                ones-=1
+            current_score =zeros+ones
+            if current_score>max_score:
+                max_score =current_score
         return max_score
-
-        # Time complexity O(n^2)
-        # space O(n)
