@@ -27,6 +27,7 @@ A2sv community pathway and contest
 | [0283-move-zeroes](https://github.com/sheshbazzarr/A2SV/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sheshbazzarr/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sheshbazzarr/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
@@ -240,6 +241,7 @@ A2sv community pathway and contest
 | [0217-contains-duplicate](https://github.com/sheshbazzarr/A2SV/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sheshbazzarr/A2SV/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sheshbazzarr/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/sheshbazzarr/A2SV/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
@@ -341,6 +343,7 @@ A2sv community pathway and contest
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sheshbazzarr/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/sheshbazzarr/A2SV/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
@@ -535,6 +538,7 @@ A2sv community pathway and contest
 | ------- |
 | [0155-min-stack](https://github.com/sheshbazzarr/A2SV/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sheshbazzarr/A2SV/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sheshbazzarr/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 ## String Matching
 |  |
 | ------- |
@@ -556,4 +560,8 @@ A2sv community pathway and contest
 | ------- |
 | [0139-word-break](https://github.com/sheshbazzarr/A2SV/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sheshbazzarr/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
