@@ -134,6 +134,7 @@ A2sv community pathway and contest
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/sheshbazzarr/A2SV/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sheshbazzarr/A2SV/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -258,6 +259,7 @@ A2sv community pathway and contest
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/sheshbazzarr/A2SV/tree/master/1813-maximum-erasure-value) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sheshbazzarr/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sheshbazzarr/A2SV/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sheshbazzarr/A2SV/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -432,6 +434,7 @@ A2sv community pathway and contest
 | [1603-running-sum-of-1d-array](https://github.com/sheshbazzarr/A2SV/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sheshbazzarr/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
@@ -440,6 +443,7 @@ A2sv community pathway and contest
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sheshbazzarr/A2SV/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
