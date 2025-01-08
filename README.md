@@ -58,6 +58,7 @@ A2sv community pathway and contest
 | [1755-defuse-the-bomb](https://github.com/sheshbazzarr/A2SV/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/sheshbazzarr/A2SV/tree/master/1813-maximum-erasure-value) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sheshbazzarr/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/sheshbazzarr/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/sheshbazzarr/A2SV/tree/master/1972-rotating-the-box) |
@@ -137,6 +138,7 @@ A2sv community pathway and contest
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sheshbazzarr/A2SV/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sheshbazzarr/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/sheshbazzarr/A2SV/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sheshbazzarr/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -437,6 +439,7 @@ A2sv community pathway and contest
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sheshbazzarr/A2SV/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/sheshbazzarr/A2SV/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sheshbazzarr/A2SV/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
