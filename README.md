@@ -18,6 +18,7 @@ A2sv community pathway and contest
 | [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sheshbazzarr/A2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sheshbazzarr/A2SV/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sheshbazzarr/A2SV/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -451,6 +452,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/sheshbazzarr/A2SV/tree/master/0136-single-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
