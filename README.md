@@ -354,6 +354,7 @@ A2sv community pathway and contest
 | [0062-unique-paths](https://github.com/sheshbazzarr/A2SV/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sheshbazzarr/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/sheshbazzarr/A2SV/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sheshbazzarr/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/sheshbazzarr/A2SV/tree/master/0415-add-strings) |
@@ -370,6 +371,7 @@ A2sv community pathway and contest
 | [0024-swap-nodes-in-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/sheshbazzarr/A2SV/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/sheshbazzarr/A2SV/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/sheshbazzarr/A2SV/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/sheshbazzarr/A2SV/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
@@ -453,6 +455,7 @@ A2sv community pathway and contest
 | ------- |
 | [0067-add-binary](https://github.com/sheshbazzarr/A2SV/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sheshbazzarr/A2SV/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sheshbazzarr/A2SV/tree/master/0231-power-of-two) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sheshbazzarr/A2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1940-maximum-xor-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
