@@ -72,6 +72,7 @@ A2sv community pathway and contest
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sheshbazzarr/A2SV/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sheshbazzarr/A2SV/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sheshbazzarr/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sheshbazzarr/A2SV/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/sheshbazzarr/A2SV/tree/master/2358-number-of-ways-to-split-array) |
@@ -145,6 +146,7 @@ A2sv community pathway and contest
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sheshbazzarr/A2SV/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/sheshbazzarr/A2SV/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sheshbazzarr/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sheshbazzarr/A2SV/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/sheshbazzarr/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sheshbazzarr/A2SV/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -568,6 +570,7 @@ A2sv community pathway and contest
 | [0459-repeated-substring-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/sheshbazzarr/A2SV/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sheshbazzarr/A2SV/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sheshbazzarr/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Combinatorics
 |  |
