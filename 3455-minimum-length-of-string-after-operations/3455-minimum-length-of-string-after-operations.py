@@ -1,15 +1,14 @@
 class Solution:
     def minimumLength(self, s: str) -> int:
-        n =len(s)
-        count={}
-        for i in range(n):
-            if  s[i] not in count:
-                count[s[i]]=1
+        char_frequency_map =Counter(s)
+        delete_count = 0
+        for frequency in char_frequency_map.values():
+            if frequency %2==1:
+                delete_count+=frequency-1
             else:
-                count[s[i]]+=1
-        for char in count:
-            while count[char]>2:
-                count[char]-=2
-        return sum(count.values())
+                delete_count +=frequency-2
+        return len(s)-delete_count
+        
 
+    
         
