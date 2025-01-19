@@ -29,6 +29,7 @@ A2sv community pathway and contest
 | [0303-range-sum-query-immutable](https://github.com/sheshbazzarr/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sheshbazzarr/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0407-trapping-rain-water-ii) |
 | [0456-132-pattern](https://github.com/sheshbazzarr/A2SV/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/sheshbazzarr/A2SV/tree/master/0496-next-greater-element-i) |
@@ -217,6 +218,7 @@ A2sv community pathway and contest
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sheshbazzarr/A2SV/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sheshbazzarr/A2SV/tree/master/1917-maximum-average-pass-ratio) |
@@ -397,6 +399,7 @@ A2sv community pathway and contest
 | [0048-rotate-image](https://github.com/sheshbazzarr/A2SV/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/sheshbazzarr/A2SV/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
@@ -536,6 +539,7 @@ A2sv community pathway and contest
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sheshbazzarr/A2SV/tree/master/0127-word-ladder) |
+| [0407-trapping-rain-water-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
