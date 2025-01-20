@@ -81,6 +81,7 @@ A2sv community pathway and contest
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sheshbazzarr/A2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheshbazzarr/A2SV/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sheshbazzarr/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/sheshbazzarr/A2SV/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sheshbazzarr/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sheshbazzarr/A2SV/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -289,6 +290,7 @@ A2sv community pathway and contest
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sheshbazzarr/A2SV/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sheshbazzarr/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sheshbazzarr/A2SV/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2685-first-completely-painted-row-or-column](https://github.com/sheshbazzarr/A2SV/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sheshbazzarr/A2SV/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -409,6 +411,7 @@ A2sv community pathway and contest
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sheshbazzarr/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/sheshbazzarr/A2SV/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/sheshbazzarr/A2SV/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
 |  |
