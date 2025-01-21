@@ -68,6 +68,7 @@ A2sv community pathway and contest
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sheshbazzarr/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sheshbazzarr/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/sheshbazzarr/A2SV/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/sheshbazzarr/A2SV/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sheshbazzarr/A2SV/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sheshbazzarr/A2SV/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -410,6 +411,7 @@ A2sv community pathway and contest
 | [1972-rotating-the-box](https://github.com/sheshbazzarr/A2SV/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sheshbazzarr/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/sheshbazzarr/A2SV/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/sheshbazzarr/A2SV/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sheshbazzarr/A2SV/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -471,6 +473,7 @@ A2sv community pathway and contest
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sheshbazzarr/A2SV/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sheshbazzarr/A2SV/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/sheshbazzarr/A2SV/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2145-grid-game](https://github.com/sheshbazzarr/A2SV/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/sheshbazzarr/A2SV/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sheshbazzarr/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sheshbazzarr/A2SV/tree/master/2691-count-vowel-strings-in-ranges) |
