@@ -48,6 +48,7 @@ A2sv community pathway and contest
 | [1196-filling-bookcase-shelves](https://github.com/sheshbazzarr/A2SV/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sheshbazzarr/A2SV/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1511-count-number-of-teams](https://github.com/sheshbazzarr/A2SV/tree/master/1511-count-number-of-teams) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sheshbazzarr/A2SV/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/1524-string-matching-in-an-array) |
@@ -247,6 +248,7 @@ A2sv community pathway and contest
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sheshbazzarr/A2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/sheshbazzarr/A2SV/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sheshbazzarr/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sheshbazzarr/A2SV/tree/master/2300-construct-string-with-repeat-limit) |
@@ -305,6 +307,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
+| [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sheshbazzarr/A2SV/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -409,6 +412,7 @@ A2sv community pathway and contest
 | [0921-spiral-matrix-iii](https://github.com/sheshbazzarr/A2SV/tree/master/0921-spiral-matrix-iii) |
 | [1041-available-captures-for-rook](https://github.com/sheshbazzarr/A2SV/tree/master/1041-available-captures-for-rook) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sheshbazzarr/A2SV/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/sheshbazzarr/A2SV/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/sheshbazzarr/A2SV/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sheshbazzarr/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -550,6 +554,7 @@ A2sv community pathway and contest
 | [0407-trapping-rain-water-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/sheshbazzarr/A2SV/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -640,4 +645,8 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sheshbazzarr/A2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
