@@ -307,6 +307,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
+| [0820-find-eventual-safe-states](https://github.com/sheshbazzarr/A2SV/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sheshbazzarr/A2SV/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
@@ -554,6 +555,7 @@ A2sv community pathway and contest
 | [0407-trapping-rain-water-ii](https://github.com/sheshbazzarr/A2SV/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/sheshbazzarr/A2SV/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/sheshbazzarr/A2SV/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -561,6 +563,7 @@ A2sv community pathway and contest
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/sheshbazzarr/A2SV/tree/master/0820-find-eventual-safe-states) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
@@ -649,4 +652,8 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/sheshbazzarr/A2SV/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
