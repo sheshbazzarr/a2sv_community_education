@@ -93,6 +93,7 @@ A2sv community pathway and contest
 | [2727-number-of-senior-citizens](https://github.com/sheshbazzarr/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sheshbazzarr/A2SV/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sheshbazzarr/A2SV/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sheshbazzarr/A2SV/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -217,6 +218,7 @@ A2sv community pathway and contest
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sheshbazzarr/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sheshbazzarr/A2SV/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sheshbazzarr/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sheshbazzarr/A2SV/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sheshbazzarr/A2SV/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sheshbazzarr/A2SV/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
@@ -652,6 +654,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sheshbazzarr/A2SV/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
