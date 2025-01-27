@@ -311,6 +311,7 @@ A2sv community pathway and contest
 | [0463-island-perimeter](https://github.com/sheshbazzarr/A2SV/tree/master/0463-island-perimeter) |
 | [0820-find-eventual-safe-states](https://github.com/sheshbazzarr/A2SV/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/sheshbazzarr/A2SV/tree/master/1558-course-schedule-iv) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sheshbazzarr/A2SV/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sheshbazzarr/A2SV/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
@@ -560,6 +561,7 @@ A2sv community pathway and contest
 | [0787-sliding-puzzle](https://github.com/sheshbazzarr/A2SV/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/sheshbazzarr/A2SV/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/sheshbazzarr/A2SV/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/sheshbazzarr/A2SV/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -567,6 +569,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sheshbazzarr/A2SV/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/sheshbazzarr/A2SV/tree/master/1558-course-schedule-iv) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sheshbazzarr/A2SV/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -661,5 +664,6 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sheshbazzarr/A2SV/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/sheshbazzarr/A2SV/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sheshbazzarr/A2SV/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
