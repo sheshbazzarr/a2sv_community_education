@@ -91,6 +91,7 @@ A2sv community pathway and contest
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/sheshbazzarr/A2SV/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/sheshbazzarr/A2SV/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sheshbazzarr/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sheshbazzarr/A2SV/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sheshbazzarr/A2SV/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -314,6 +315,7 @@ A2sv community pathway and contest
 | [1558-course-schedule-iv](https://github.com/sheshbazzarr/A2SV/tree/master/1558-course-schedule-iv) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sheshbazzarr/A2SV/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sheshbazzarr/A2SV/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A2sv community pathway and contest
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sheshbazzarr/A2SV/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A2sv community pathway and contest
 | [1876-map-of-highest-peak](https://github.com/sheshbazzarr/A2SV/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sheshbazzarr/A2SV/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -659,6 +663,7 @@ A2sv community pathway and contest
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/sheshbazzarr/A2SV/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/sheshbazzarr/A2SV/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sheshbazzarr/A2SV/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
